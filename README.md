@@ -76,5 +76,5 @@ Provide a clear visual representation of system functionalities.
 Help in identifying and organising system requirements.
 Facilitate communication among stakeholders and the development team.
 
-![image](https://github.com/user-attachments/assets/b127565d-8156-4ac8-9930-e3a90c829b5e)
+![alx-booking-uc.png](https://github.com/user-attachments/assets/b127565d-8156-4ac8-9930-e3a90c829b5e)
 
