@@ -78,3 +78,19 @@ Facilitate communication among stakeholders and the development team.
 
 ![alx-booking-uc.png](https://github.com/user-attachments/assets/b127565d-8156-4ac8-9930-e3a90c829b5e)
 
+Acceptance Criteria ✅
+Objective: Establishing clear criteria for feature completion.
+
+What is Acceptance Criteria?
+
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+How to Define Acceptance Criteria:
+
+Be specific and measurable.
+Include functional and non-functional aspects.
+Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+Benefits of Acceptance Criteria:
+
+Ensure all parties have a clear understanding of feature requirements.
+Provide a basis for testing and validation.
+Help in maintaining quality and meeting user expectations.
